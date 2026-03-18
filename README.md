@@ -1,13 +1,13 @@
 
 # Olá! Bem-vindo(a) ao meu perfil! 👋
 
-<img align="center" src="https://i.pinimg.com/736x/56/f5/59/56f559a949e1250635417d9d80d55850.jpg" width="150">
+<img align="center" src="https://i.pinimg.com/736x/56/f5/59/56f559a949e1250635417d9d80d55850.jpg">
 
 ---
 
 ### 🌙 Sobre Mim
 
-<img align="right" src="https://i.pinimg.com/originals/23/31/0e/23310edfea3fc5ba1eccb58eddd4479c.gif" width="150">
+<img align="right" src="https://i.pinimg.com/originals/23/31/0e/23310edfea3fc5ba1eccb58eddd4479c.gif" width="300">
 
 - 🎓 Atualmente graduanda de Engenharia de Software na Uninter.
 - 💻 Focada em Backend com Java e Spring Boot.
