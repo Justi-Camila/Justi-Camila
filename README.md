@@ -1,20 +1,13 @@
 
 # Olá! Bem-vindo(a) ao meu perfil! 👋
- 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Camila%20Justi&fontSize=90" width="100%" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Justi-Camila&label=Perfil%20Views&color=0e75b6&style=flat" alt="Views" />
-</p>
+<img align="center" src="https://i.pinimg.com/736x/56/f5/59/56f559a949e1250635417d9d80d55850.jpg" width="150">
 
 ---
 
 ### 🌙 Sobre Mim
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB3bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/S60Cr9oIrrlH9Og7S7/giphy.gif" width="150">
+<img align="right" src="https://i.pinimg.com/originals/23/31/0e/23310edfea3fc5ba1eccb58eddd4479c.gif" width="150">
 
 - 🎓 Atualmente graduanda de Engenharia de Software na Uninter.
 - 💻 Focada em Backend com Java e Spring Boot.
