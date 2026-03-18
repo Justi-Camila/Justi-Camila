@@ -14,7 +14,7 @@
   <tr>
     <td valign="middle" align="left">
       <ul>
-        <li>☀️ Me chamo Camila Justi.</li>
+        <li>☀️ Me chamo Camila Justi da Silva.</li>
         <li>🎓 Atualmente graduanda de Engenharia de Software na Uninter.</li>
         <li>💻 Focada em Backend com Java e Spring Boot.</li>
         <li>🚀 Em constante aprendizado!!</li>
