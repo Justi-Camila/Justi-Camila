@@ -26,6 +26,7 @@
   </tr>
 </table>
 </div>
+
 ---
 
 ### 🛠️ Minhas Tecnologias
